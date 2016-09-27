@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242434323400",
+    "firebase_url": "https://fir-pushnotify.firebaseio.com",
+    "project_id": "fir-pushnotify",
+    "storage_bucket": "fir-pushnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242434323400:android:607dd3f473455de0",
+        "android_client_info": {
+          "package_name": "notify.firebase.com.firebasepushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242434323400-vodreuodoe0g114v25obq2djo4ig8qle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxQ1cpU1c9Tz8Zi3lIa5LTp3ltYe0mBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
